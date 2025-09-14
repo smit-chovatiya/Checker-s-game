@@ -68,3 +68,5 @@ Frontend will run on http://localhost:3000
 2. Second player joins using the Game ID
 3. Take turns moving pieces by clicking to select and then clicking destination
 4. Game ends when one player captures all opponent pieces
+
+"C:\Users\Admin\OneDrive\Pictures\Screenshots\Screenshot 2025-09-14 120035.png"
